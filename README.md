@@ -1,2 +1,2 @@
 # First
-my frist repo
+my first repo
